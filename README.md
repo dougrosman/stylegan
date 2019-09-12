@@ -1,6 +1,6 @@
 ## StyleGAN &mdash; Official TensorFlow Implementation
 
-<a href="https://open-app.runwayml.com/?model=runway/stylegan" target="_blank"><img src="https://open-app.runwayml.com/gh-badge.svg" width=120/></a>
+<a href="https://open-app.runwayml.com/?model=runway/stylegan" target="_blank"><img src="https://open-app.runwayml.com/gh-badge.svg" /></a>
 
 ![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg?style=plastic)
 ![TensorFlow 1.10](https://img.shields.io/badge/tensorflow-1.10-green.svg?style=plastic)
